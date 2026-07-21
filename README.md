@@ -8,12 +8,13 @@
 | 项目名称 | 技术栈 | 核心方法 | 模型效果 |
 |---------|--------|---------|---------|
 | [蓝莓产量预测分析](./Blueberry_Yield_Prediction) | Python, pandas, sklearn | EDA, K-Means, PCA, 线性回归 | R² = 0.787 |
+| [在线教育用户流失分析](./流失分析/) | Python, pandas, Power BI | EDA, 逻辑回归, 数据可视化 | 识别核心预警指标，搭建3页BI仪表盘 |
 
 ## 🛠️ 技能覆盖
 - ​**​数据处理​**​：pandas, numpy (清洗、缺失值处理、重复值剔除)
-- ​**​数据可视化​**​：matplotlib, seaborn (热力图、残差图、分布图)
+- ​**​数据可视化​**​：matplotlib, seaborn, Power BI（热力图、残差图、分布图、交互式仪表盘）
 - ​**​特征工程​**​：VIF共线性检测、PCA主成分降维、标准化
-- ​**​机器学习​**​：K-Means聚类、LinearRegression线性回归
+- ​**​机器学习​**​：sklearn（线性回归、逻辑回归、K-Means、PCA）
 - ​**​模型评估​**​：R²、MSE、残差诊断、正态性检验
 
 ## 📬 联系方式
